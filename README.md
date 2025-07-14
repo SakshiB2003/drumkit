@@ -39,7 +39,7 @@ This is a fun and interactive **Drum Kit** project built using **HTML**, **CSS**
 ---
 
 ## ❤️ Credits
--Inspired by The Complete Web Development Bootcamp by Angela Yu
+- Inspired by The Complete Web Development Bootcamp by Angela Yu
 
 ## 🛠️ How to Run Locally
 
