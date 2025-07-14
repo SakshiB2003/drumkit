@@ -41,6 +41,8 @@ This is a fun and interactive **Drum Kit** project built using **HTML**, **CSS**
 ## ❤️ Credits
 - Inspired by The Complete Web Development Bootcamp by Angela Yu
 
+## 🔗 Live Demo 👉 [Click here to play the Drum Kit(https://sakshib2003.github.io/drumkit/)
+
 ## 🛠️ How to Run Locally
 
 1. Clone the repository:
